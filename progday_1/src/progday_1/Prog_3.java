@@ -1,3 +1,5 @@
+// check for prime number
+
 package progday_1;
 
 public class Prog_3 {
